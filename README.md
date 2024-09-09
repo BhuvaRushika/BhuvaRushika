@@ -6,13 +6,13 @@ Curruntly, I am studying Master of computer Applications in GTU. <br>Passionate 
 Currently, I'm wokring backend developer at Nexalus Soft.
 
 <h2>Education 📚</h2>
-B.E.: Bachelor of Computer Applications in GU
-M.E.: Master of computer Applications in GTU (2023 - Present)
+- BCA.: Bachelor of Computer Applications in GU(2020-2023)
+- MCA: Master of computer Applications in GTU (2023 - Present)
 
 <h2>Skills 🚀</h2>
-Programming Languages: Python
-Technologies: Django, DRF, GitHub, Third party API
-Other Skills: Problem Solving, Team Collaboration
+- Programming Languages: Python
+- Technologies: Django, DRF, GitHub, Third party API
+- Other Skills: Problem Solving, Team Collaboration
 
 <h2>Learning Journey 🌱</h2>
 I'm currently focused on mastering Back-End technology and continuously expanding my knowledge in Back-End web app development.
