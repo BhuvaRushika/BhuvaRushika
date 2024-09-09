@@ -6,7 +6,8 @@ Curruntly, I am studying Master of computer Applications in GTU. <br>Passionate 
 Currently, I'm wokring backend developer at Nexalus Soft.
 
 <h2>Education 📚</h2>
-B.E.: Master of computer Applications in GTU (2023 - Present)
+B.E.: Bachelor of Computer Applications in GU
+M.E.: Master of computer Applications in GTU (2023 - Present)
 
 <h2>Skills 🚀</h2>
 Programming Languages: Python
