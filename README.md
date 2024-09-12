@@ -19,4 +19,4 @@ I'm currently focused on mastering Back-End technology and continuously expandin
 
 
 <h2>Let's Connect 📫</h2>
-Feel free to reach out to me via [Email](mailto:bhuvarushika@gmail.com).
+Feel free to reach out to me via [Email](bhuvarushika@gmail.com)
