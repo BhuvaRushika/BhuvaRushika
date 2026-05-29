@@ -7,7 +7,7 @@ Currently, I'm wokring backend developer at Nexalus Soft.
 
 <h2>Education 📚</h2>
  - BCA.: Bachelor of Computer Applications in GU(2020-2023)
- - MCA: Master of computer Applications in GTU (2023 - Present)
+ - MCA: Master of computer Applications in GTU (2023 - 2025)
 
 <h2>Skills 🚀</h2>
  - Programming Languages: Python
